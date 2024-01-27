@@ -1,1 +1,1 @@
-# py-excel-laptop-log
+Python script I am writing to help me interact with some Excel spreadsheets. Uses the openpyxl library as I do not need to do anything too complicated; for which other similar libraries, e.g. pandas, would be more appropriate.
